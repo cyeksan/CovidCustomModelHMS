@@ -1,4 +1,4 @@
-# CovidCustomModelHMS
+# CovidDetectionApp
 
 <h2>COVID-19 X-Ray detection using machine learning in Huawei Ecosystem with ML Kit Custom Model</h2>
 
