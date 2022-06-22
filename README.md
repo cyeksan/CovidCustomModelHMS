@@ -1,6 +1,6 @@
 # CovidCustomModelHMS
 
-<h2>COVID-19 X-Ray detection using machine learning in Huawei Ecosystem with ML KIT Custom Model</h2>
+<h2>COVID-19 X-Ray detection using machine learning in Huawei Ecosystem with ML Kit Custom Model</h2>
 
 For detailed information: https://medium.com/huawei-developers/hms-ml-kit-real-time-translation-service-with-jetpack-compose-4265d7f68e5a
 
